@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨Self taught dev with Ultralearning<br>📚 I'm currently learning Frontend Development<br>🎯 Goals: None<br>🎲 Fun fact: I read Books</h4>
+<h4 align="left">✨Self taught dev with Ultralearning<br>📚 I'm currently learning Frontend Development<br>🎯 Goals: To Keep my ego aside and learn <br>🎲 Fun fact: I read Books</h4>
 
 ###
 
